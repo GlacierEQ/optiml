@@ -12,6 +12,8 @@
 [![GitHub](https://img.shields.io/github/stars/NU-QRG/optiml?style=flat-square&logo=github&label=Stars&color=gold)](https://github.com/NU-QRT/optiml)
 [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/optiml/optiml/latest?label=Docker%20image)](https://hub.docker.com/r/optiml/optiml)
 
+![GitHub Trend](https://trendshift.io/api/badge/repositories/4535)
+
 </div>
 
 ---
